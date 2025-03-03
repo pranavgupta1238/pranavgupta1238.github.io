@@ -40,6 +40,8 @@ Tertiary (3°): R₃C⁺ (most stable due to hyperconjugation and inductive effe
 Formation: Via heterolytic fission (e.g., CH₃CH₂Br → CH₃CH₂⁺ + Br⁻).
 Role: Key in SN1, E1, and electrophilic addition reactions.
 Example: CH₃C(CH₃)₂⁺ is stabilized by three methyl groups donating electron density.
+
+
 b) Carbanions
 
 Structure: A carbon with a negative charge (e.g., CH₃⁻), having 8 valence electrons (electron-rich).
@@ -49,6 +51,8 @@ Less stable with electron-donating groups (e.g., alkyl groups).
 Formation: From deprotonation (e.g., CH₃CH₂⁻ from a strong base like NaNH₂).
 Role: Nucleophiles in reactions like aldol condensation.
 Example: ⁻CH₂CN is stabilized by the electron-withdrawing –CN group.
+
+
 c) Free Radicals
 
 Structure: A carbon with an unpaired electron (e.g., CH₃•), 7 valence electrons (neutral).
