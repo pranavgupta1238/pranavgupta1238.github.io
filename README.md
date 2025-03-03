@@ -1,4 +1,4 @@
-1. Fission of Covalent Bonds
+# 1. Fission of Covalent Bonds
 
 A covalent bond is a shared pair of electrons between two atoms (e.g., C–C, C–H). When it breaks, it can do so in two distinct ways, depending on how the electrons are distributed:
 
@@ -26,7 +26,7 @@ Comparison Tip: Homolytic = radicals (neutral, unpaired electrons), Heterolytic 
 
 
 
-2. Intermediate Organic Species Based on Carbon
+# 2. Intermediate Organic Species Based on Carbon
 
 Organic reactions often proceed through reactive intermediates—short-lived species that form and react further. These are based on carbon’s electronic structure:
 
