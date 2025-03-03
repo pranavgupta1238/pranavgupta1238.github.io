@@ -2,7 +2,7 @@
 
 A covalent bond is a shared pair of electrons between two atoms (e.g., C–C, C–H). When it breaks, it can do so in two distinct ways, depending on how the electrons are distributed:
 
-a) Homolytic Fission
+### a) Homolytic Fission
 
 What Happens: The bond splits evenly, with each atom taking one of the shared electrons, forming two free radicals.
 Conditions: Often triggered by heat, UV light, or radical initiators (e.g., peroxides).
@@ -14,7 +14,7 @@ Radicals are highly reactive due to their unpaired electron.
 Real-World Context: This is common in radical chain reactions like halogenation of alkanes (e.g., CH₄ + Cl₂ → CH₃Cl + HCl).
 
 
-b) Heterolytic Fission
+### b) Heterolytic Fission
 
 What Happens: The bond splits unevenly, with one atom taking both electrons, forming a cation (positive) and an anion (negative).
 Conditions: Favored in polar solvents (e.g., water) or with polar bonds (e.g., C–Cl).
@@ -32,7 +32,7 @@ Comparison Tip: Homolytic = radicals (neutral, unpaired electrons), Heterolytic 
 
 Organic reactions often proceed through reactive intermediates—short-lived species that form and react further. These are based on carbon’s electronic structure:
 
-a) Carbocations
+### a) Carbocations
 
 Structure: A carbon with a positive charge (e.g., CH₃⁺ or CH₃CH₂⁺), having only 6 valence electrons ( electron-deficient).
 Stability: Depends on substitution:
@@ -44,7 +44,7 @@ Role: Key in SN1, E1, and electrophilic addition reactions.
 Example: CH₃C(CH₃)₂⁺ is stabilized by three methyl groups donating electron density.
 
 
-b) Carbanions
+### b) Carbanions
 
 Structure: A carbon with a negative charge (e.g., CH₃⁻), having 8 valence electrons (electron-rich).
 Stability: Opposite of carbocations:
@@ -55,7 +55,7 @@ Role: Nucleophiles in reactions like aldol condensation.
 Example: ⁻CH₂CN is stabilized by the electron-withdrawing –CN group.
 
 
-c) Free Radicals
+### c) Free Radicals
 
 Structure: A carbon with an unpaired electron (e.g., CH₃•), 7 valence electrons (neutral).
 Stability: Similar to carbocations—3° > 2° > 1° due to hyperconjugation.
