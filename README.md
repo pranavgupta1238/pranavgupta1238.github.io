@@ -1,13 +1,59 @@
-Meaning of Depreciation:
+1. Fission of Covalent Bonds
 
-Depreciation is the accounting process of allocating the cost of a tangible asset over its useful life. As an asset is used over time, its value decreases due to factors like wear and tear, obsolescence, and aging. Depreciation allows businesses to gradually expense the cost of these assets rather than accounting for it all at once.
+A covalent bond is a shared pair of electrons between two atoms (e.g., C–C, C–H). When it breaks, it can do so in two distinct ways, depending on how the electrons are distributed:
 
-Importance of Depreciation:
+a) Homolytic Fission
 
-1. Accurate Financial Reporting: Depreciation helps businesses reflect the true value of their assets over time. Without accounting for depreciation, financial statements may overstate the worth of an asset.
-2. Matching Principle: In accounting, depreciation aligns with the matching principle, which ensures expenses are matched with the revenue they help generate. Spreading the cost of an asset over its useful life ensures that expenses are recorded in the same periods as the benefits from the asset.
-3. Tax Benefits: Depreciation is a non-cash expense, which means companies can deduct depreciation expenses from their taxable income, lowering tax liability.
-4. Asset Management: Depreciation helps companies understand the useful life of their assets and plan for replacements. By knowing how long assets will last, businesses can better budget for future investments.
-5. Investment Decisions: Depreciation provides insight into the total cost of ownership for assets, helping businesses make informed decisions on whether to maintain, sell, or replace an asset.
+What Happens: The bond splits evenly, with each atom taking one of the shared electrons, forming two free radicals.
+Conditions: Often triggered by heat, UV light, or radical initiators (e.g., peroxides).
+Representation: A single-headed arrow (fishhook) shows one electron moving.
+Example: Cl₂ → 2Cl• (under UV light).
+Key Features:
+Produces neutral species with unpaired electrons (radicals).
+Radicals are highly reactive due to their unpaired electron.
+Real-World Context: This is common in radical chain reactions like halogenation of alkanes (e.g., CH₄ + Cl₂ → CH₃Cl + HCl).
+b) Heterolytic Fission
 
-In summary, depreciation is crucial for accurate accounting, tax management, and long-term business planning.
+What Happens: The bond splits unevenly, with one atom taking both electrons, forming a cation (positive) and an anion (negative).
+Conditions: Favored in polar solvents (e.g., water) or with polar bonds (e.g., C–Cl).
+Representation: A double-headed arrow shows the pair of electrons moving.
+Example: CH₃CH₂Cl → CH₃CH₂⁺ + Cl⁻.
+Key Features:
+Produces charged species (ions).
+Stability depends on the resulting ions (e.g., carbocations are more stable with electron-donating groups).
+Real-World Context: Common in ionic mechanisms like SN1 or E1 reactions.
+Comparison Tip: Homolytic = radicals (neutral, unpaired electrons), Heterolytic = ions (charged, paired electrons). Think of homolytic as "fair sharing" and heterolytic as "one takes all."
+
+
+
+2. Intermediate Organic Species Based on Carbon
+
+Organic reactions often proceed through reactive intermediates—short-lived species that form and react further. These are based on carbon’s electronic structure:
+
+a) Carbocations
+
+Structure: A carbon with a positive charge (e.g., CH₃⁺ or CH₃CH₂⁺), having only 6 valence electrons ( electron-deficient).
+Stability: Depends on substitution:
+Primary (1°): RCH₂⁺ (least stable).
+Secondary (2°): R₂CH⁺.
+Tertiary (3°): R₃C⁺ (most stable due to hyperconjugation and inductive effects from alkyl groups).
+Formation: Via heterolytic fission (e.g., CH₃CH₂Br → CH₃CH₂⁺ + Br⁻).
+Role: Key in SN1, E1, and electrophilic addition reactions.
+Example: CH₃C(CH₃)₂⁺ is stabilized by three methyl groups donating electron density.
+b) Carbanions
+
+Structure: A carbon with a negative charge (e.g., CH₃⁻), having 8 valence electrons (electron-rich).
+Stability: Opposite of carbocations:
+Stabilized by electron-withdrawing groups (e.g., –NO₂, –CN).
+Less stable with electron-donating groups (e.g., alkyl groups).
+Formation: From deprotonation (e.g., CH₃CH₂⁻ from a strong base like NaNH₂).
+Role: Nucleophiles in reactions like aldol condensation.
+Example: ⁻CH₂CN is stabilized by the electron-withdrawing –CN group.
+c) Free Radicals
+
+Structure: A carbon with an unpaired electron (e.g., CH₃•), 7 valence electrons (neutral).
+Stability: Similar to carbocations—3° > 2° > 1° due to hyperconjugation.
+Formation: Via homolytic fission (e.g., CH₃CH₂• from peroxide initiation).
+Role: Central to radical reactions (e.g., polymerization, halogenation).
+Example: (CH₃)₃C• is a stable tertiary radical.
+Memory Trick: Carbocation (+, electron-poor), Carbanion (–, electron-rich), Free Radical (•, neutral oddball). Stability follows alkyl substitution for cations/radicals, but reverses for anions.
