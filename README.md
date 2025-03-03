@@ -63,3 +63,38 @@ Formation: Via homolytic fission (e.g., CH₃CH₂• from peroxide initiation).
 Role: Central to radical reactions (e.g., polymerization, halogenation).
 Example: (CH₃)₃C• is a stable tertiary radical.
 Memory Trick: Carbocation (+, electron-poor), Carbanion (–, electron-rich), Free Radical (•, neutral oddball). Stability follows alkyl substitution for cations/radicals, but reverses for anions.
+
+
+# 3. Types of Organic Reactions
+
+Organic compounds react in three main ways, depending on how bonds are made or broken:
+
+### a) Addition Reactions
+
+What Happens: Two molecules combine into one, often across a double or triple bond.
+Where It Occurs: Unsaturated compounds (alkenes, alkynes, carbonyls).
+Mechanism:
+Electrophilic Addition: H⁺ or Br⁺ adds first (e.g., CH₂=CH₂ + HBr → CH₃CH₂Br).
+Nucleophilic Addition: Nucleophile attacks carbonyls (e.g., CH₃CHO + HCN → CH₃CH(OH)CN).
+Example: CH₃CH=CH₂ + Br₂ → CH₃CHBrCH₂Br (bromine adds across the double bond).
+
+
+### b) Elimination Reactions
+
+What Happens: A small molecule (e.g., H₂O, HX) is removed to form a double or triple bond.
+Where It Occurs: Saturated compounds (alcohols, alkyl halides).
+Mechanism:
+E1: Stepwise, via carbocation (e.g., (CH₃)₃CBr → (CH₃)₂C=CH₂ + HBr).
+E2: Concerted, base removes H as leaving group departs (e.g., CH₃CH₂Br + OH⁻ → CH₂=CH₂ + H₂O + Br⁻).
+Example: CH₃CH₂OH → CH₂=CH₂ + H₂O (dehydration with H₂SO₄).
+
+
+###  c) Substitution Reactions
+
+What Happens: One group replaces another on a carbon atom.
+Where It Occurs: Saturated carbons (alkanes, alkyl halides).
+Mechanism:
+SN1: Stepwise, via carbocation, favored by 3° carbons (e.g., (CH₃)₃CCl + OH⁻ → (CH₃)₃COH + Cl⁻).
+SN2: Concerted, backside attack, favored by 1° carbons (e.g., CH₃CH₂Cl + OH⁻ → CH₃CH₂OH + Cl⁻).
+Example: CH₃CH₂Br + NaOH → CH₃CH₂OH + NaBr.
+Intuition: Addition builds up (unsaturated → saturated), Elimination strips down (saturated → unsaturated), Substitution swaps (no change in saturation).
