@@ -12,6 +12,8 @@ Key Features:
 Produces neutral species with unpaired electrons (radicals).
 Radicals are highly reactive due to their unpaired electron.
 Real-World Context: This is common in radical chain reactions like halogenation of alkanes (e.g., CH₄ + Cl₂ → CH₃Cl + HCl).
+
+
 b) Heterolytic Fission
 
 What Happens: The bond splits unevenly, with one atom taking both electrons, forming a cation (positive) and an anion (negative).
