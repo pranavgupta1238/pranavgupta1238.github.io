@@ -98,3 +98,57 @@ SN1: Stepwise, via carbocation, favored by 3° carbons (e.g., (CH₃)₃CCl + OH
 SN2: Concerted, backside attack, favored by 1° carbons (e.g., CH₃CH₂Cl + OH⁻ → CH₃CH₂OH + Cl⁻).
 Example: CH₃CH₂Br + NaOH → CH₃CH₂OH + NaBr.
 Intuition: Addition builds up (unsaturated → saturated), Elimination strips down (saturated → unsaturated), Substitution swaps (no change in saturation).
+
+
+# 4. Thermodynamic and Kinetic Control of Reactions
+
+Reactions can produce multiple products, and conditions determine which dominates:
+
+### a) Thermodynamic Control
+
+Definition: Favors the most stable product (lowest Gibbs free energy, ΔG).
+Conditions: High temperature, reversible reactions, enough time to reach equilibrium.
+Example: In diene addition (e.g., 1,3-butadiene + HBr):
+Thermodynamic Product: 1,4-addition (CH₂=CH–CH=CH₂ → CH₃CH=CH–CH₂Br), more substituted alkene, more stable.
+Why Stable? Lower energy due to factors like conjugation or substitution.
+
+
+### b) Kinetic Control
+
+Definition: Favors the product formed fastest (lowest activation energy, Ea).
+Conditions: Low temperature, irreversible reactions, short reaction time.
+Example: Same reaction as above:
+Kinetic Product: 1,2-addition (CH₂=CH–CH=CH₂ → CH₂=CHBr–CH=CH₂), forms faster due to a more accessible transition state.
+Why Faster? Less rearrangement or steric hindrance in the transition state.
+
+
+### Key Example (Diels-Alder Related):
+
+1,3-butadiene + HBr at –78°C → kinetic product (1,2-addition).
+Same reaction at 40°C → thermodynamic product (1,4-addition).
+
+##### Visual Aid: Imagine a mountain pass—kinetic takes the quick, easy path (low barrier), thermodynamic rolls to the deepest valley (lowest energy).
+
+
+### Putting It All Together
+
+Fission determines intermediates: Homolytic → radicals, Heterolytic → ions.
+
+Intermediates drive reaction types: Carbocations (SN1, E1), Radicals (chain reactions), Carbanions (nucleophilic attacks).
+
+Reaction Types are tools: Addition (build), Elimination (strip), Substitution (swap).
+
+Control decides outcome: Kinetic (fast), Thermodynamic (stable).
+
+### Practice Questions for You
+
+Draw the mechanism for CH₃CH₂Cl → CH₃CH₂⁺ + Cl⁻. Is this homolytic or heterolytic?
+
+Classify: CH₂=CH₂ + HCl → CH₃CH₂Cl. What intermediate forms?
+
+Predict the product: CH₃CH₂CH₂OH with H₂SO₄. Is it addition, elimination, or substitution?
+
+For CH₂=CH–CH=CH₂ + HBr, suggest conditions for kinetic vs. thermodynamic products.
+
+Let me know if you want to work through these or dive deeper into any section! Ready to move to Unit-2, or more Unit-1 practice?
+
