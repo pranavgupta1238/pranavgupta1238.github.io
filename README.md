@@ -1,6 +1,6 @@
 # High Tower
 
-created by Pranav and Kritika
+created by Pranav
 
 Tower building game. Place blocks by clicking, tapping or spacebarring. 
 
